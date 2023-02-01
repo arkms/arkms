@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkms" alt="arkms" /></a> </p>
 
-- 🌱 I’m currently learning **Unreal engine**
+- 🌱 I’m currently learning **Vulkan**
 
 - 👨‍💻 All of my projects are available at [https://arjierdagames.com/arkms/](https://arjierdagames.com/arkms/)
 
