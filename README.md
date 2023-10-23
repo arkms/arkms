@@ -61,5 +61,3 @@
 <p><a href="https://ko-fi.com/arkms"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arkms" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkms&show_icons=true&locale=en&layout=compact" alt="arkms" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkms" alt="arkms" /></a> </p>
